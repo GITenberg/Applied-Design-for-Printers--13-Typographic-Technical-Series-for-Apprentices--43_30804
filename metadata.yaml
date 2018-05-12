@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34833'
     url: http://www.gutenberg.org/2009/agents/34833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30804#Applied-Design-for-Printers--13-Typographic-Technical-Series-for-Apprentices--43
 gutenberg_issued: '2009-12-30'
 gutenberg_type: Text
 identifiers:
